@@ -8,7 +8,6 @@ Welcome to the Flutter Products App! This app fetches and shows a list of produc
 ## What's Inside?
 ![home](https://github.com/BuffyJoe/product_app_with_timbu/assets/81034050/f0d3fe3e-7356-4af4-a085-df5422ea2ff4)
 
-
 - Grabs product data from an API.
 - Shows product details like name, description, image, and current price.
 - Handles errors and displays friendly messages.
